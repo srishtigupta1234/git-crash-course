@@ -3,11 +3,14 @@ const name1 = 'Piyush Garg';
 const dob = '10/12/2025';
 const gender = "female";
 function sayName(){
-    console.log("My name is "+ name1); 
+    console.log(`My name is ${name1}`); 
 }
 function isAbove18(){
     return age>=18;
 }
 function sayHello(){
     console.log("Hello"); 
+}
+function newFeature(){
+    console.log("Adding new feature");
 }
