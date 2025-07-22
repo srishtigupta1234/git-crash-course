@@ -12,5 +12,6 @@ function sayHello(){
     console.log("Hello"); 
 }
 function newFeature(){
+    console.log("Adding navbar");
     console.log("Adding new feature");
 }
