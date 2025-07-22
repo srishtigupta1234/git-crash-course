@@ -15,3 +15,7 @@ function newFeature(){
     console.log("Adding navbar");
     console.log("Adding new feature");
 }
+function newFeatureAddB(){
+    console.log("Adding Buttons ");
+    console.log("Adding new feature");
+}
