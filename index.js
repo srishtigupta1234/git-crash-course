@@ -17,5 +17,5 @@ function newFeature(){
 }
 function newFeatureAddB(){
     console.log("Adding Buttons ");
-    console.log("Adding new feature");
+    console.log("Adding new feature C");
 }
